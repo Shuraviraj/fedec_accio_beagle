@@ -1,0 +1,67 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Inter;
+}
+
+.blog {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 2px solid #000;
+  padding: 30px;
+  margin: 47px;
+  width: 1540.513px;
+  height: 613.544px;
+}
+
+.blog > h1 {
+  color: #000;
+  font-size: 64px;
+  font-weight: 700;
+  text-decoration-line: underline;
+}
+.blog > a {
+  color: #000;
+  font-size: 40px;
+  font-weight: 400;
+  text-decoration-line: underline;
+}
+.blog > p {
+  color: #000;
+  font-size: 40px;
+  font-weight: 400;
+}
+.images-head {
+  color: #000;
+  font-size: 64px;
+  font-weight: 700;
+  text-decoration-line: underline;
+  margin-bottom: 55px;
+}
+.more-images-head {
+  color: #000;
+  font-size: 40px;
+  font-weight: 400;
+  text-decoration-line: underline;
+  margin: 34px 0px;
+}
+
+.dog {
+  margin-left: 58px;
+}
+.trivia {
+  width: 1000px;
+  margin-inline: auto;
+}
+.trivia-head {
+  color: #000;
+  font-size: 64px;
+  font-weight: 700;
+  text-decoration-line: underline;
+}
+ol {
+  color: #000;
+  font-size: 40px;
+  font-weight: 400;
+}
